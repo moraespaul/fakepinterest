@@ -16,6 +16,7 @@ itsdangerous
 Jinja2
 MarkupSafe
 packaging
+psycopg2
 SQLAlchemy
 typing_extensions
 Werkzeug
